@@ -1,0 +1,3 @@
+Pagerank calculation using hadoop and hbase.
+
+Compile: mvn clean package
